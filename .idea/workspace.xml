@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20967d8f-2285-467f-8a85-96d1e1359c75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/javaBasicKnowledge/src/dateTimeAPI/MyLocalTime.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pgk93sfrTgIuudXikNfFU3jwk7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/raffi/IdeaProjects/java_spring/javaBasicKnowledge/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javaBasicKnowledge/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyLocalTime">
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forInterviewQuestions.Deadlock" />
+      <module name="javaBasicKnowledge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dateTimeAPI.MyLocalDate" />
+      <module name="javaBasicKnowledge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dateTimeAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLocalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dateTimeAPI.MyLocalTime" />
+      <module name="javaBasicKnowledge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dateTimeAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyLocalTime" />
+        <item itemvalue="Application.MyLocalDate" />
+        <item itemvalue="Application.Deadlock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20967d8f-2285-467f-8a85-96d1e1359c75" name="Changes" comment="" />
+      <created>1683885957318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683885957318</updated>
+      <workItem from="1683885958670" duration="2281000" />
+    </task>
+    <task id="LOCAL-00001" summary="java basic knowledge">
+      <created>1683886087831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683886087831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java basic knowledge&#10;-for interview questions">
+      <created>1683886338619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683886338619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java basic knowledge&#10;-for interview questions&#10;--LocalDate">
+      <created>1683887525093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683887525093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java basic knowledge" />
+    <MESSAGE value="java basic knowledge&#10;-for interview questions" />
+    <MESSAGE value="java basic knowledge&#10;-for interview questions&#10;--LocalDate" />
+    <option name="LAST_COMMIT_MESSAGE" value="java basic knowledge&#10;-for interview questions&#10;--LocalDate" />
+  </component>
+</project>
