@@ -1,7 +1,9 @@
 package dateTimeAPI;
 
 import java.time.LocalDate;
+import java.time.LocalTime;
 import java.time.Month;
+import java.time.format.DateTimeFormatter;
 
 /*
  * default yyy-MM-dd
@@ -71,5 +73,10 @@ public class MyLocalDate {
         System.out.println("Is specificDate after currentDate? " + _specificDate.isAfter(_currentDate));
         System.out.println("Is specificDate after pastDate? " + _specificDate.isAfter(_pastDate));
         System.out.println("Is specificDate after futureDate? " + _specificDate.isAfter(_futureDate));
+
+        System.out.println("-----------------------------------");
+
+        //using date time formatter
+        System.out.println("Formatter d::MM:yyyy-> "+ LocalDate.now().format(DateTimeFormatter.ofPattern("d::MM:yyyy")));
     }
 }
