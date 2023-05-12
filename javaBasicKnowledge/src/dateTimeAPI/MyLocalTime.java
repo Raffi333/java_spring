@@ -2,6 +2,7 @@ package dateTimeAPI;
 
 import java.time.LocalTime;
 import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
 
 /*
 hh:mm:ss.zzz
@@ -77,5 +78,10 @@ public class MyLocalTime {
         System.out.println("Yerevan time by ZoneID: " + LocalTime.now(yerevanZone));
         System.out.println("Paris time by ZoneID: " + LocalTime.now(parisZone));
         System.out.println("Los_Angeles time by ZoneID: " + LocalTime.now(losAngelesZone));
+
+        System.out.println("-----------------------------------");
+
+        //using date time formatter
+        System.out.println("Formatter HH::mm::ss"+LocalTime.now().format(DateTimeFormatter.ofPattern("HH::mm::ss")));
     }
 }
