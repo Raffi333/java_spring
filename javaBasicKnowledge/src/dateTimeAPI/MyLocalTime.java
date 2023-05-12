@@ -82,6 +82,6 @@ public class MyLocalTime {
         System.out.println("-----------------------------------");
 
         //using date time formatter
-        System.out.println("Formatter HH::mm::ss"+LocalTime.now().format(DateTimeFormatter.ofPattern("HH::mm::ss")));
+        System.out.println("Formatter HH::mm::ss-> "+LocalTime.now().format(DateTimeFormatter.ofPattern("HH::mm::ss")));
     }
 }
