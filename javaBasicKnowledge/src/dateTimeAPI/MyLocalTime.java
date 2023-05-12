@@ -1,6 +1,7 @@
 package dateTimeAPI;
 
 import java.time.LocalTime;
+import java.time.ZoneId;
 
 /*
 hh:mm:ss.zzz
@@ -66,5 +67,15 @@ public class MyLocalTime {
         System.out.println("Is specificTime after currentTime? " + _specificTime.isAfter(_currentTime));
         System.out.println("Is specificTime after pastTime? " + _specificTime.isAfter(_pastTime));
         System.out.println("Is specificTime after futureTime? " + _specificTime.isAfter(_futureTime));
+
+        System.out.println("-----------------------------------");
+
+        //using time zone
+        ZoneId yerevanZone = ZoneId.of("Asia/Yerevan");
+        ZoneId parisZone = ZoneId.of("Europe/Paris");
+        ZoneId losAngelesZone = ZoneId.of("America/Los_Angeles");
+        System.out.println("Yerevan time by ZoneID: " + LocalTime.now(yerevanZone));
+        System.out.println("Paris time by ZoneID: " + LocalTime.now(parisZone));
+        System.out.println("Los_Angeles time by ZoneID: " + LocalTime.now(losAngelesZone));
     }
 }
