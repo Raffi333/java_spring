@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="20967d8f-2285-467f-8a85-96d1e1359c75" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasicKnowledge/src/dateTimeAPI/MyLocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasicKnowledge/src/dateTimeAPI/MyLocalDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasicKnowledge/src/forInterviewQuestions/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasicKnowledge/src/forInterviewQuestions/Deadlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/home/raffi/IdeaProjects/java_spring/javaBasicKnowledge/src"
+    "last_opened_file_path": "/home/raffi/IdeaProjects/java_spring"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -45,7 +45,7 @@
       <recent name="$PROJECT_DIR$/javaBasicKnowledge/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLocalDate">
+  <component name="RunManager" selected="Application.Deadlock">
     <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="forInterviewQuestions.Deadlock" />
       <module name="javaBasicKnowledge" />
@@ -94,10 +94,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.MyLocalDate" />
         <item itemvalue="Application.MyLocalTime" />
         <item itemvalue="Application.MyLocalDateTime" />
-        <item itemvalue="Application.Deadlock" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +109,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683885957318</updated>
-      <workItem from="1683885958670" duration="6131000" />
+      <workItem from="1683885958670" duration="6943000" />
+      <workItem from="1683895821619" duration="226000" />
+      <workItem from="1684151460586" duration="5561000" />
     </task>
     <task id="LOCAL-00001" summary="java basic knowledge">
       <created>1683886087831</created>
@@ -160,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683893199398</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java basic knowledge&#10;-for interview questions&#10;--LocalDate">
+      <created>1683893318091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683893318091</updated>
+    </task>
+    <task id="LOCAL-00009" summary="java basic knowledge&#10;-for interview questions&#10;--LocalDate">
+      <created>1683893343980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683893343980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,9 +185,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java basic knowledge" />
     <MESSAGE value="java basic knowledge&#10;-for interview questions" />
-    <MESSAGE value="java basic knowledge&#10;-for interview questions&#10;--LocalDate" />
     <MESSAGE value="java basic knowledge&#10;-for interview questions&#10;--LocalDateTime" />
     <MESSAGE value="java basic knowledge&#10;-for interview questions&#10;--LocalTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="java basic knowledge&#10;-for interview questions&#10;--LocalTime" />
+    <MESSAGE value="java basic knowledge&#10;-for interview questions&#10;--LocalDate" />
+    <option name="LAST_COMMIT_MESSAGE" value="java basic knowledge&#10;-for interview questions&#10;--LocalDate" />
   </component>
 </project>
